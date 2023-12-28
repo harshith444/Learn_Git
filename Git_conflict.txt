@@ -1,7 +1,7 @@
 Testing out git config between 2 branches using merge option
 Git conflict occurs if any changes are done to same file in different branches at same particular line
 then if we try to merge
-lets test this out!
+want to see what happens
 1.have same file in both the branches 
 2.creating git_conflict file in merge1_bracnch 
 3.Then merge to main branch and try for git conflict
