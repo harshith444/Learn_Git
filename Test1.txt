@@ -1,0 +1,7 @@
+1.Trying to commit the new file from vs code
+2.Add into stage 
+3.configure username and email id using 
+  git config --global user.email "email-id"
+  git config --global user.name "username"
+4.commit with message
+5.Push into remote
